@@ -1,0 +1,16 @@
+{
+  "name": "mocks",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "bootstrap-material-design": "~0.3.0",
+    "font-awesome": "~4.0.0",
+    "jquery": "~1.9.1",
+    "modernizr": "~2.6.2",
+    "slick-carousel": "~1.5.8"
+  },
+  "devDependencies": {
+    "chai": "~3.3.0",
+    "mocha": "~2.3.3"
+  }
+}
